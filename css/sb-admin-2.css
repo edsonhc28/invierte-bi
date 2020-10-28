@@ -11229,7 +11229,7 @@ table.display {
      width: 90%;
      /*transition: color .5s;  -moz-transition: color .5s;  -o-transition: color .5s;  -webkit-transition: color .5s; box-shadow: 0 0 4px #489582;*/
      /*background-color:#5D5D5D;*/
-     background:#FF9D55;
+     background:#9398ec;
      
      
  }
@@ -11707,7 +11707,7 @@ table.display {
  /* * * * * * * * * * * * * FIN DE CSS DE demo_table.css* * * * * * * * * * * * * * * * * * * * * * * * *
  
  /* ========= Botones index cta */ 
-                 .btncta2 {color: #FFFFFF; font-weight:normal; font-size:100%; line-height:280%; background:#FF9D55; display:inline-block; margin:0;  letter-spacing: 1px; outline: none; position: relative; min-width:100%; height: auto; overflow: hidden; padding:1%; }
+                 .btncta2 {color: #FFFFFF; font-weight:normal; font-size:100%; line-height:280%; background:#9398ec; display:inline-block; margin:0;  letter-spacing: 1px; outline: none; position: relative; min-width:100%; height: auto; overflow: hidden; padding:1%; }
                  .btncta2 span{ text-transform: uppercase; display: inline-block; width: 100%; height: 100%; padding:0px; margin:0px; color: #FFFFFF; font-weight:bold}
   
                  .btncta2:hover span{ display: inline-block; width: 100%; height: 100%; color: #FFCEAA}
